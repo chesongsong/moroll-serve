@@ -23,7 +23,4 @@ public class BaseEntity {
 
     @TableField("update_by")
     private String updateBy;
-
-    @TableField("remark")
-    private String remark;
 }
